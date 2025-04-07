@@ -16,6 +16,6 @@ Below are images related to the install:
 
 ![Pieces of control cabinet-pre installation](https://github.com/henthornlab/ProcessAnalytics/blob/master/2025-install/IMG_8216.jpeg?raw=true)
 
-![Instrumentation: Coriolis, 2 pressure transmitters] (https://github.com/henthornlab/ProcessAnalytics/blob/master/2025-install/IMG_8223.jpeg?raw=true)
+![Instrumentation: Coriolis, 2 pressure transmitters](https://github.com/henthornlab/ProcessAnalytics/blob/master/2025-install/IMG_8223.jpeg?raw=true)
 
-![Installation Process] (https://github.com/henthornlab/ProcessAnalytics/blob/master/2025-install/IMG_8269.jpeg?raw=true)
+![Installation Process](https://github.com/henthornlab/ProcessAnalytics/blob/master/2025-install/IMG_8269.jpeg?raw=true)
