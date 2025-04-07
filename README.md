@@ -7,10 +7,10 @@ We started with a backplate and screwed the rails to it. We then connected the p
 The installed pieces of instrumentation were:
 |Tag| Manufacturer| Model| Key Process Parameters|
 |-----| ----| -----|-----|
-|PIT525A| Endress+ Hauser| Pressure Indicating Transmitter| Pressure|
-|PIT525B| Endress+ Hauser| Pressure Indicating Transmitter| Pressure|
-|FIT525A| Endress+ Hauser| Coriolis Flow Meter| Flow Rate|
-|TT525A| Endress+ Hauser| RTD| Temperature|
+|PIT525A| Endress+ Hauser| Cerabar| Pressure|
+|PIT525B| Endress+ Hauser| Deltapilot S| Pressure|
+|FIT525A| Endress+ Hauser| Promass 300| Flow Rate|
+|TT525A| Unknown| PT-100| Temperature|
 
 Below are images related to the install:
 
